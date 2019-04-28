@@ -1,1 +1,5 @@
 1) Given two arrays, e.g. a1 = {1, 7, 8, 3, 10} and a2 = {7, 10, 2, 9}, find the intersection. Or in other words common elements like result = {7, 10}. The elements in the arrays may not be sorted and also there can be duplicates.
+
+2) Reverse array elements from a given position k. For example given array = {1, 6, 2, 7, 9, 3} and k = 3, result = {2, 6, 1, 7, 9, 3}.
+
+3) Given a list, find kth largest element.
